@@ -1,7 +1,8 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Smallest base image
-FROM alpine:latest
+ARG ARCH=
+FROM ${ARCH}alpine:latest
 
 LABEL maintainer="Kyle Manna <kyle@kylemanna.com>"
 
