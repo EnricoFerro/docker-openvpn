@@ -26,5 +26,5 @@ jobs:
       run: |
         docker buildx build \
           --tag $IMAGE_NAME:latest \
-          --output=type=registry \
+          --push \
           --platform linux/amd64,linux/arm/v7,linux/arm64 .
