@@ -2,7 +2,7 @@
 
 Fork of [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) adding the multiarch with Arm V7 and Arm64
 
-[![Build status](https://github.com/EnricoFerro/docker-openvpn/workflows/Docker%20pull/badge.svg)]
+![Build Docker](https://github.com/EnricoFerro/docker-openvpn/workflows/Build%20Docker/badge.svg)
 [![Docker Stars](https://img.shields.io/docker/stars/enricoferro/openvpn.svg)](https://hub.docker.com/r/enricoferro/openvpn/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/enricoferro/openvpn.svg)](https://hub.docker.com/r/enricoferro/openvpn/)
 [![ImageLayers](https://images.microbadger.com/badges/image/enricoferro/openvpn.svg)](https://microbadger.com/#/images/enricoferro/openvpn)
